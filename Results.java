@@ -11,7 +11,7 @@ public class Results {
 		student1.name="Jai";
 		
 		
-Student student2= new Student();
+		Student student2= new Student();
 		
 		student2.marks=15;
 		student2.name="Veeru";
